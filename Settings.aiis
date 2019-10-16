@@ -1,7 +1,7 @@
 {
   "__type": "ArtOfTest.WebAii.Design.UserSettings",
   "__value": {
-    "UseHttpProxy": false,
+    "UseHttpProxy": true,
     "RecordjQueryInDescriptorsIfPossible": true,
     "ShouldDeleteElement": false,
     "SkipDeleteElementPrompt": false,
